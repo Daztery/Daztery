@@ -9,7 +9,7 @@
   <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 </p>
 
-- 👨‍💻 As Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Mobile Application Development.
 
 ## 🛠 &nbsp;Tech Stack
